@@ -1,5 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%237B7B7C&size=25&center=true&vCenter=true&width=500&lines=Hi+There%2C👋+;I+'m+Erencan;A+passionate+Software+Developer)](https://git.io/typing-svg)
 
+
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/43441567/156359012-e00ad513-f0d0-4654-8b6d-3d7611738937.gif" />
+
 #### 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=6577B3)
