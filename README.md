@@ -8,6 +8,7 @@
 ![](https://img.shields.io/badge/VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=6577B3)
 ![](https://img.shields.io/badge/Flutter-informational?style=flat&logo=flutter&logoColor=white&color=3FA1EF)
 ![](https://img.shields.io/badge/Unity-informational?style=flat&logo=unity&logoColor=white&color=171717)
+![](https://img.shields.io/badge/SwiftUI-informational?style=flat&logo=swift&logoColor=white&color=003EA7)
 
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=336791)
 ![](https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2591E5)
@@ -32,7 +33,7 @@
 
 <br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erncncbk&layout=compact&langs_count=12)](https://github.com/erncncbk/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erncncbk&layout=compact&langs_count=12)](https://github-readme-stats.vercel.app/api/top-langs/?username=erncncbk&layout=compact&langs_count=12)
 
 <br>
 
